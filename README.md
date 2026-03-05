@@ -1,5 +1,7 @@
 # Hi 👋 I'm Kabelo Mashapa
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KabeloMashapa&show_icons=true&theme=tokyonight)
 🎓 Master's Student in Computer Science  
 🔐 Cybersecurity & Blockchain Researcher  
 ☁ Interested in Cloud Security, AI Security, and 5G/6G Networks
