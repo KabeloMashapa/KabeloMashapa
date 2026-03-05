@@ -8,7 +8,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KabeloMashapa&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KabeloMashapa&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KabeloMashapa&layout=compact&theme=tokyonight)
 ---
