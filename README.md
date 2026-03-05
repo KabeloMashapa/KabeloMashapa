@@ -2,13 +2,13 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Cybersecurity+Researcher;Blockchain+Security+Specialist;Cloud+Security+Enthusiast;AI+for+5G%2F6G+Networks&center=true&width=500&height=50)
 
-🎓 Master's Student in Computer Science  
-🔐 Cybersecurity & Blockchain Researcher  
-☁ Interested in Cloud Security, AI Security, and 5G/6G Networks  
+ Master's Student in Computer Science  
+ Cybersecurity & Blockchain Researcher  
+ Interested in Cloud Security, AI Security, and 5G/6G Networks  
 
 ---
 
-## 🔗 Connect with me
+## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://za.linkedin.com/in/kabelo-mashapa-3015b5322)
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 🚀 Current Projects
+##  Current Projects
 
 - Blockchain-based DDoS Defence Framework
 - CloudSim Attack Simulation
@@ -36,7 +36,7 @@
 
 ---
 
-## 🛠 Languages and Tools
+##  Languages and Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
@@ -48,7 +48,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Kabelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KabeloMashapa&show_icons=true&theme=tokyonight)
 
@@ -58,16 +58,16 @@
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KabeloMashapa&theme=tokyo-night)
 
 ---
 
-## 👀 Profile Views
+##  Profile Views
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=KabeloMashapa&color=blue)
 
 ---
 
-⭐ From [KabeloMashapa](https://github.com/KabeloMashapa)
+ From [KabeloMashapa](https://github.com/KabeloMashapa)
