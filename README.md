@@ -15,27 +15,6 @@
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:mashapagesler03@gmail.com)
 
 ---
-
-##  Research Interests
-
-- Blockchain Security
-- DDoS Attack Mitigation
-- Cloud Computing Security
-- 5G/6G Network Security
-- AI-driven Cyber Defence
-- Zero Trust Architectures
-
----
-
-##  Current Projects
-
-- Blockchain-based DDoS Defence Framework
-- CloudSim Attack Simulation
-- Cybersecurity Homelab (pfSense + Wazuh)
-- Byt3Crypto
-
----
-
 ##  Languages and Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
