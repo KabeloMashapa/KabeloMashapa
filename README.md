@@ -4,7 +4,7 @@
 
  Master's Student in Computer Science  
  Cybersecurity & Blockchain Researcher  
- Interested in Cloud Security, AI Security, and 5G/6G Networks  
+ Interested in Software Development, Blockchain Technology, Cloud Security, AI Security, and 5G/6G Networks  
 
 ---
 
