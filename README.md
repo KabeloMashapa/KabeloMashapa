@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kabelo Mashapa
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Researcher;Blockchain+Security+Specialist;Cloud+Security+Enthusiast;AI+for+5G%2F6G+Networks&center=true&width=500&height=50)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Cybersecurity+Researcher;Blockchain+Security+Specialist;Cloud+Security+Enthusiast;AI+for+5G%2F6G+Networks&center=true&width=500&height=50)
 
 🎓 Master's Student in Computer Science  
 🔐 Cybersecurity & Blockchain Researcher  
