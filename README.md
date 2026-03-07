@@ -26,8 +26,7 @@
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 
 ---
-
-##  GitHub Stats
+## GitHub Stats
 
 ![Kabelo's GitHub stats](https://github-readme-stats-self-phi-72.vercel.app/api?username=KabeloMashapa&show_icons=true&theme=tokyonight&count_private=true)
 
