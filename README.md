@@ -29,13 +29,11 @@
 
 ##  GitHub Stats
 
-![Kabelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KabeloMashapa&show_icons=true&theme=tokyonight)
+![Kabelo's GitHub stats](https://github-readme-stats-self-phi-72.vercel.app/api?username=KabeloMashapa&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KabeloMashapa&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-self-phi-72.vercel.app/api/top-langs/?username=KabeloMashapa&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=KabeloMashapa&theme=tokyonight)
-
----
 
 ##  Contribution Graph
 
