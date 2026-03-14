@@ -1,4 +1,4 @@
-# Hi , I'm Kabelo Mashapa
+# I'm Kabelo Mashapa
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Cybersecurity+Researcher;Blockchain+Security+Specialist;CryptoCurrency+Enthusiast;AI+for+5G%2F6G+Networks&center=true&width=500&height=50)
 
