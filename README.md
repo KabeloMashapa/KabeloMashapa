@@ -5,7 +5,7 @@
 ## About Me
 
 <div align="center">
-  <img src="https://your-image-url.com/your-photo.jpg" width="200" height="200" style="border-radius: 50%; border: 3px solid #00ffff; box-shadow: 0 0 20px rgba(0, 255, 255, 0.5);">
+  <img src="https://your-image-url.com/https://github.com/KabeloMashapa/KabeloMashapa/blob/main/Screenshot%202026-03-14%20145708.png" width="200" height="200" style="border-radius: 50%; border: 3px solid #00ffff; box-shadow: 0 0 20px rgba(0, 255, 255, 0.5);">
   
   <br>
   <br>
