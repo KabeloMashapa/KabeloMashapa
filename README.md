@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/KabeloMashapa/KabeloMashapa@main/ProfilePicture.png" 
-       width="400" height="400" 
+       width="500" height="500" 
        style="border-radius: 50%; border: 3px solid #00ffff; box-shadow: 0 0 20px rgba(0, 255, 255, 0.5);">
   
   <br>
