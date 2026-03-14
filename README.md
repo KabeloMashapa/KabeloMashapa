@@ -2,9 +2,18 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Cybersecurity+Researcher;Blockchain+Security+Specialist;Cloud+Security+Enthusiast;AI+for+5G%2F6G+Networks&center=true&width=500&height=50)
 
- Master's Student in Computer Science  
- Cybersecurity & Blockchain Researcher  
- Interested in Software Development, Blockchain Technology, Cloud Security, AI Security, and 5G/6G Networks  
+## About Me
+
+<div align="center">
+  <img src="https://your-image-url.com/your-photo.jpg" width="200" height="200" style="border-radius: 50%; border: 3px solid #00ffff; box-shadow: 0 0 20px rgba(0, 255, 255, 0.5);">
+  
+  <br>
+  <br>
+
+<div align="center"> <i>"I don't just write code – I architect digital immune systems for tomorrow's networks."</i> </div>
+
+
+I exist at the unholy intersection where cryptography meets artificial intelligence, where blockchain consensus algorithms dance with 5G radio waves, and where security isn't an afterthought – it's the genetic code of everything I build.
 
 ---
 
