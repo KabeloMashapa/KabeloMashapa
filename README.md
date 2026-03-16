@@ -16,7 +16,6 @@
 </div>
 I exist at the unholy intersection where cryptography meets artificial intelligence, where blockchain consensus algorithms dance with 5G radio waves, and where security isn't an afterthought but a genetic code of everything I build.
 
----
 
 ## Connect with me
 
