@@ -24,6 +24,12 @@ I exist at the unholy intersection where cryptography meets artificial intellige
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:mashapagesler03@gmail.com)
 
 ---
+---
+##  Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/kgTheRipper/)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/kgTheRipper?theme=dark&font=Baloo%202&ext=contest)
 ##  Languages and Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
