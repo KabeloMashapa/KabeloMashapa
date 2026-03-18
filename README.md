@@ -12,10 +12,11 @@
   <br>
   <br>
 
-  <i>"I don't just write code , I architect digital immune systems for tomorrow's networks."</i>
-</div>
-I exist at the unholy intersection where cryptography meets artificial intelligence, where blockchain consensus algorithms dance with 5G radio waves, and where security isn't an afterthought but a genetic code of everything I build.
+<i>"I don’t just write code , I design secure, intelligent systems for next-generation networks."</i>
 
+I am a Software Engineer and Cybersecurity Researcher with a strong focus on blockchain security, cloud computing, and AI-driven network protection. My work lies at the intersection of cryptography, distributed systems, and emerging technologies such as 5G/6G networks.
+
+I am particularly interested in building secure, scalable solutions where security is not an afterthought, but an integral part of system design. My current research explores blockchain-based approaches to mitigating distributed attacks and enhancing trust in cloud environments.
 
 ## Connect with me
 
