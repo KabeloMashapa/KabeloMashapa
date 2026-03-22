@@ -27,10 +27,7 @@ I am particularly interested in building secure, scalable solutions where securi
 ---
 ---
 ##  Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/kgTheRipper/)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/kgTheRipper?theme=dark&font=Baloo%202&ext=contest)
+ + Uhhhhhhhhhh !!
 ##  Languages and Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
