@@ -27,7 +27,8 @@ I am particularly interested in building secure, scalable solutions where securi
 ---
 ---
 ##  Coding Profiles
- + Uhhhhhhhhhh !!
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/kgTheRipper/)
+I use competitive programming and algorithmic practice to strengthen problem-solving, analytical thinking, and code optimization.
 ##  Languages and Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
