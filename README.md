@@ -25,13 +25,7 @@ I am particularly interested in building secure, scalable solutions where securi
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:mashapagesler03@gmail.com)
 
 ---
----
-##  Coding Profiles
-<p align="left">
-  <a href="https://leetcode.com/u/kgTheRipper/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-</p>
+
 ---
 ##  Languages and Tools
 
