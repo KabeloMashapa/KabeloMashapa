@@ -52,10 +52,4 @@ I am particularly interested in building secure, scalable solutions where securi
 
 ---
 
-##  Profile Views
-
-![Visitor Count](https://komarev.com/ghpvc/?username=KabeloMashapa&color=blue)
-
----
-
  From [KabeloMashapa](https://github.com/KabeloMashapa)
