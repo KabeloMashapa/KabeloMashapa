@@ -1,4 +1,4 @@
-# I'm Kabelo Mashapa
+# Hi, I'm Kabelo Mashapa
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Cybersecurity+Researcher;Blockchain+Security+Specialist;CryptoCurrency+Enthusiast;AI+for+5G%2F6G+Networks&center=true&width=500&height=50)
 
@@ -6,17 +6,24 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/KabeloMashapa/KabeloMashapa@main/ProfilePicture.png" 
-       width="600" height="600" 
+       width="200" height="200" 
        style="border-radius: 50%; border: 3px solid #00ffff; box-shadow: 0 0 20px rgba(0, 255, 255, 0.5);">
   
   <br>
   <br>
 
-<i>"I don’t just write code , I design secure, intelligent systems for next-generation networks."</i>
+<i>"I don't just write code, I design secure, intelligent systems for next-generation networks."</i>
+
+<br>
+<br>
 
 I am a Software Engineer and Cybersecurity Researcher with a strong focus on blockchain security, cloud computing, and AI-driven network protection. My work lies at the intersection of cryptography, distributed systems, and emerging technologies such as 5G/6G networks.
 
 I am particularly interested in building secure, scalable solutions where security is not an afterthought, but an integral part of system design. My current research explores blockchain-based approaches to mitigating distributed attacks and enhancing trust in cloud environments.
+
+</div>
+
+---
 
 ## Connect with me
 
@@ -26,8 +33,7 @@ I am particularly interested in building secure, scalable solutions where securi
 
 ---
 
----
-##  Languages and Tools
+## Languages and Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
@@ -38,18 +44,21 @@ I am particularly interested in building secure, scalable solutions where securi
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 
 ---
+
 ## GitHub Stats
 
-![Kabelo's GitHub stats](https://github-readme-stats-self-phi-72.vercel.app/api?username=KabeloMashapa&show_icons=true&theme=tokyonight&count_private=true)
+![Kabelo's GitHub stats](https://github-readme-stats-self-phi-72.vercel.app/api?username=KabeloMashapa&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=3600)
 
-![Top Languages](https://github-readme-stats-self-phi-72.vercel.app/api/top-langs/?username=KabeloMashapa&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-self-phi-72.vercel.app/api/top-langs/?username=KabeloMashapa&layout=compact&theme=tokyonight&cache_seconds=3600)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=KabeloMashapa&theme=tokyonight)
 
-##  Contribution Graph
+## Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KabeloMashapa&theme=tokyo-night)
 
 ---
 
- From [KabeloMashapa](https://github.com/KabeloMashapa)
+<div align="center">
+  <i>From <a href="https://github.com/KabeloMashapa">KabeloMashapa</a></i>
+</div>
