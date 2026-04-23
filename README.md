@@ -20,7 +20,6 @@
 I am a Software Engineer and Cybersecurity Researcher with a strong focus on blockchain security, cloud computing, and AI-driven network protection. My work lies at the intersection of cryptography, distributed systems, and emerging technologies such as 5G/6G networks.
 
 I am particularly interested in building secure, scalable solutions where security is not an afterthought, but an integral part of system design. My current research explores blockchain-based approaches to mitigating distributed attacks and enhancing trust in cloud environments.
-
 </div>
 
 ---
