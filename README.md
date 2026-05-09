@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- Typing animation -->
-[![Typing SVG]](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E56CF¢er=true&vCenter=true&width=600&lines=Software+Engineer;Cybersecurity+Researcher;Blockchain+Security+Specialist;AI+for+5G%2F6G+Networks)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&width=600&lines=Software+Engineer;Cybersecurity+Researcher;Blockchain+Security+Specialist;AI+for+5G%2F6G+Networks)
 
 <br/>
 
-<!-- Profile image -->
 <img src="https://cdn.jsdelivr.net/gh/KabeloMashapa/KabeloMashapa@main/ProfilePicture.png"
   width="130" height="130"
   style="border-radius: 50%;">
@@ -26,15 +24,13 @@ and trust management in cloud environments.
 
 <br/>
 
-<!-- Badges -->
-[![LinkedIn]](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
-[![Email]](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://za.linkedin.com/in/kabelo-mashapa-3015b5322)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mashapagesler03@gmail.com)
 
 </div>
 
 ---
 
-<!-- Tech Stack -->
 ## Tech stack
 
 **Languages**
@@ -48,7 +44,6 @@ and trust management in cloud environments.
 
 ---
 
-<!-- Stats -->
 ## GitHub activity
 
 <div align="center">
@@ -67,5 +62,5 @@ and trust management in cloud environments.
 ---
 
 <div align="center">
-<sub><i>From [KabeloMashapa](https://github.com/KabeloMashapa)</i></sub>
+<sub><i>From <a href="https://github.com/KabeloMashapa">KabeloMashapa</a></i></sub>
 </div>
