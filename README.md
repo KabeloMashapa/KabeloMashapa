@@ -3,7 +3,7 @@
 <br/>
 
 <img src="https://cdn.jsdelivr.net/gh/KabeloMashapa/KabeloMashapa@main/ProfilePicture.png"
-  width="300" height="300"
+  width="400" height="300"
   style="border-radius:50%; border:3px solid #378ADD;">
 
 <h1><span style="color:#378ADD">Kabelo Mashapa</span></h1>
