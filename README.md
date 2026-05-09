@@ -25,7 +25,7 @@ Currently researching <span style="color:#378ADD">blockchain-based distributed a
 
 ---
 
-## <span style="color:#378ADD">🛠️ Tech stack</span>
+## <span style="color:#378ADD"> Tech stack</span>
 
 **<span style="color:#85B7EB">Languages</span>**
 
