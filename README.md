@@ -23,4 +23,4 @@
 └─────────────────────────────────────────────────────────────┘
 ```
 # WHAT I DO
-<tr> <tr> <td width="33%" align="center"> <strong>🔗 BLOCKCHAIN SECURITY</strong><br> <sub>Smart contract auditing<br>Consensus exploits<br>DeFi vulnerability research</sub> </td> <td width="33%" align="center"> <strong>☁️ CLOUD + 5G/6G</strong><br> <sub>Edge computing security<br>Network intrusion detection<br>Zero-trust architecture</sub> </td> <td width="33%" align="center"> <strong>🤖 AI DEFENSE</strong><br> <sub>ML-based threat detection<br>Anomaly classification<br>Automated response systems</sub> </td> </tr> </table>
+<tr> <tr> <td width="33%" align="center"> <strong> BLOCKCHAIN SECURITY</strong><br> <sub>Smart contract auditing<br>Consensus exploits<br>DeFi vulnerability research</sub> </td> <td width="33%" align="center"> <strong> CLOUD + 5G/6G</strong><br> <sub>Edge computing security<br>Network intrusion detection<br>Zero-trust architecture</sub> </td> <td width="33%" align="center"> <strong> AI DEFENSE</strong><br> <sub>ML-based threat detection<br>Anomaly classification<br>Automated response systems</sub> </td> </tr> </table>
