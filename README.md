@@ -1,11 +1,9 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=378ADD&center=true&vCenter=true&width=650&lines=Software+Engineer;Cybersecurity+Researcher;Blockchain+Security+Specialist;AI+for+5G%2F6G+Networks)
-
 <br/>
 
 <img src="https://cdn.jsdelivr.net/gh/KabeloMashapa/KabeloMashapa@main/ProfilePicture.png"
-  width="140" height="140"
+  width="300" height="300"
   style="border-radius:50%; border:3px solid #378ADD;">
 
 <h1>Kabelo Mashapa</h1>
@@ -19,7 +17,7 @@
 
 ---
 
-## 👨‍💻 About me
+##  About me
 
 I'm a **Software Engineer** and **Cybersecurity Researcher** focused on **blockchain security**, cloud computing, and AI-driven network protection.
 
@@ -29,7 +27,7 @@ Currently researching blockchain-based approaches to distributed attack mitigati
 
 ---
 
-## 🛠️ Tech stack
+##  Tech stack
 
 **Languages**
 
@@ -53,7 +51,7 @@ Currently researching blockchain-based approaches to distributed attack mitigati
 
 ---
 
-## 📊 GitHub activity
+##  GitHub activity
 
 <div align="center">
 
