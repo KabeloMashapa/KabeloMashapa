@@ -27,7 +27,7 @@ Currently researching blockchain-based approaches to distributed attack mitigati
 
 ---
 
-## 🛠️ Tech stack
+## Tech stack
 
 **Languages**
 
