@@ -1,7 +1,5 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=378ADD&center=true&vCenter=true&width=650&lines=Software+Engineer;Cybersecurity+Researcher;Blockchain+Security+Specialist;AI+for+5G%2F6G+Networks)
-
 <br/>
 
 <img src="https://cdn.jsdelivr.net/gh/KabeloMashapa/KabeloMashapa@main/ProfilePicture.png"
@@ -19,7 +17,7 @@
 
 ---
 
-## <span style="color:#378ADD">👨‍💻 About me</span>
+## <span style="color:#378ADD"> About me</span>
 
 <span style="color:#85B7EB">Software Engineer</span> & <span style="color:#85B7EB">Cybersecurity Researcher</span> specializing in **blockchain security** and **AI-driven 5G/6G network protection**.
 
@@ -51,7 +49,7 @@ Currently researching <span style="color:#378ADD">blockchain-based distributed a
 
 ---
 
-## <span style="color:#378ADD">📊 GitHub activity</span>
+## <span style="color:#378ADD"> GitHub activity</span>
 
 <div align="center">
 
