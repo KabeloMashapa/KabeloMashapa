@@ -45,7 +45,7 @@ Currently researching <span style="color:#378ADD">blockchain-based distributed a
 
 **<span style="color:#85B7EB">Research areas</span>**
 
-`Blockchain Security` `5G/6G Networks` `Zero Trust Architecture` `Cryptography`
+`Blockchain Security` `5G/6G Networks` `Zero Trust Architecture` `Cryptography` `Cloud Computing`
 
 ---
 
