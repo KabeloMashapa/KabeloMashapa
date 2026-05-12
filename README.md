@@ -8,7 +8,7 @@
 
 <h1><span style="color:#378ADD">Kabelo Mashapa</span></h1>
 
-<p><em><span style="color:#85B7EB">"I don't just write code — I design secure, intelligent systems for next-generation networks."</span></em></p>
+<p><em><span style="color:#85B7EB">"I don't just write code, I design secure, intelligent systems for next-generation networks."</span></em></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://za.linkedin.com/in/kabelo-mashapa-3015b5322)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mashapagesler03@gmail.com)
