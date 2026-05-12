@@ -21,7 +21,7 @@
 
 <span style="color:#85B7EB">Software Engineer</span> & <span style="color:#85B7EB">Cybersecurity Researcher</span> specializing in **blockchain security** and **AI-driven 5G/6G network protection**.
 
-Currently researching <span style="color:#378ADD">blockchain-based distributed attack mitigation</span> and trust management in cloud environments.
+Currently researching <span style="color:#378ADD">Blockchain-based distributed attack mitigation</span> and trust management in cloud environments.
 
 ---
 
