@@ -1,7 +1,6 @@
 <div align="center">
 
 <br/>
-
 <img src="https://cdn.jsdelivr.net/gh/KabeloMashapa/KabeloMashapa@main/ProfilePicture.png"
   width="400" height="300"
   style="border-radius:50%; border:3px solid #378ADD;">
