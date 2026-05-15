@@ -15,7 +15,6 @@
 </div>
 
 ---
-
 ## <span style="color:#378ADD"> About me</span>
 
 <span style="color:#85B7EB">Software Engineer</span> & <span style="color:#85B7EB">Cybersecurity Researcher</span> specializing in **blockchain security** and **AI-driven 5G/6G network protection**.
