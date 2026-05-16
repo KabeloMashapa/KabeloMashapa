@@ -6,7 +6,6 @@
   style="border-radius:50%; border:3px solid #378ADD;">
 
 <h1><span style="color:#378ADD">Kabelo Mashapa</span></h1>
-
 <p><em><span style="color:#85B7EB">"I don't just write code, I design secure, intelligent systems for next-generation networks."</span></em></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://za.linkedin.com/in/kabelo-mashapa-3015b5322)
