@@ -12,6 +12,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mashapagesler03@gmail.com)
 
 </div>
+
+
 ---
 
 
