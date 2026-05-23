@@ -6,7 +6,7 @@
   style="border-radius:50%; border:3px solid #378ADD;">
 
 <h1><span style="color:#378ADD">Kabelo Mashapa</span></h1>
-<p><em><span style="color:#85B7EB">"John the Ripper"</span></em></p>
+<p><em><span style="color:#85B7EB">"JohnTheRipper"</span></em></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://za.linkedin.com/in/kabelo-mashapa-3015b5322)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mashapagesler03@gmail.com)
