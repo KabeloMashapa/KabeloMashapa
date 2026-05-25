@@ -18,9 +18,11 @@
 
 
 ## <span style="color:#378ADD"> About me</span>
+```bash
+ boolean software engineer = true ;
+ boolean Researcher = true ;
+```
 
-<span style="color:#85B7EB">Software Engineer</span> & <span style="color:#85B7EB">Researcher</span>
- <span style="color:#378ADD"></span>
 
 ---
 
