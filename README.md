@@ -19,9 +19,8 @@
 
 ## <span style="color:#378ADD"> About me</span>
 
-<span style="color:#85B7EB">Software Engineer</span> & <span style="color:#85B7EB">Researcher</span> **.
-
-Currently researching <span style="color:#378ADD"></span>
+<span style="color:#85B7EB">Software Engineer</span> & <span style="color:#85B7EB">Researcher</span>
+ <span style="color:#378ADD"></span>
 
 ---
 
