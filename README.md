@@ -21,6 +21,14 @@
 ```bash
  boolean software engineer = true ;
  boolean Researcher = true ;
+ String[] interests = {
+        "Blockchain",
+        "Cloud Computing",
+        "Cybersecurity",
+        "Software Development",
+        "Innovation"
+    };
+ return "";
 ```
 
 
