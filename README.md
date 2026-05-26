@@ -72,6 +72,9 @@
 </div>
 
 ---
+<p align="center">
+  <img src="kabelo_github_banner.svg" alt="Kabelo Mashapa Banner">
+</p>
 
 <div align="center">
 <sub><strong><span style="color:#378ADD">From KabeloMashapa</span></strong> — built with passion & precision</sub>
