@@ -71,112 +71,17 @@
 
 </div>
 
----
-<table cellspacing="2">
+---<h2 align="center">🟩 Code Activity Matrix 🟩</h2>
 
-<!-- K -->
-<tr>
-<td>🟩</td><td>⬜</td><td>⬜</td><td>🟩</td><td>⬜</td>
-</tr>
-<tr>
-<td>🟩</td><td>⬜</td><td>🟩</td><td>⬜</td><td>⬜</td>
-</tr>
-<tr>
-<td>🟩</td><td>🟩</td><td>⬜</td><td>⬜</td><td>⬜</td>
-</tr>
-<tr>
-<td>🟩</td><td>⬜</td><td>🟩</td><td>⬜</td><td>⬜</td>
-</tr>
-<tr>
-<td>🟩</td><td>⬜</td><td>⬜</td><td>🟩</td><td>⬜</td>
-</tr>
+<div align="center">
 
-<!-- A -->
-<tr>
-<td>⬜</td><td>🟩</td><td>🟩</td><td>🟩</td><td>⬜</td>
-</tr>
-<tr>
-<td>🟩</td><td>⬜</td><td>⬜</td><td>⬜</td><td>🟩</td>
-</tr>
-<tr>
-<td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td>
-</tr>
-<tr>
-<td>🟩</td><td>⬜</td><td>⬜</td><td>⬜</td><td>🟩</td>
-</tr>
-<tr>
-<td>🟩</td><td>⬜</td><td>⬜</td><td>⬜</td><td>🟩</td>
-</tr>
+🟩🟩⬜🟩⬜🟩🟩🟩⬜🟩  
+🟩⬜🟩⬜🟩🟩⬜🟩⬜🟩  
+🟩🟩🟩⬜🟩⬜🟩🟩🟩🟩  
+🟩⬜🟩🟩⬜🟩⬜🟩⬜🟩  
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩  
 
-<!-- B -->
-<tr>
-<td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>⬜</td>
-</tr>
-<tr>
-<td>🟩</td><td>⬜</td><td>⬜</td><td>⬜</td><td>🟩</td>
-</tr>
-<tr>
-<td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>⬜</td>
-</tr>
-<tr>
-<td>🟩</td><td>⬜</td><td>⬜</td><td>⬜</td><td>🟩</td>
-</tr>
-<tr>
-<td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>⬜</td>
-</tr>
-
-<!-- E -->
-<tr>
-<td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td>
-</tr>
-<tr>
-<td>🟩</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td>
-</tr>
-<tr>
-<td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>⬜</td>
-</tr>
-<tr>
-<td>🟩</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td>
-</tr>
-<tr>
-<td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td>
-</tr>
-
-<!-- L -->
-<tr>
-<td>🟩</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td>
-</tr>
-<tr>
-<td>🟩</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td>
-</tr>
-<tr>
-<td>🟩</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td>
-</tr>
-<tr>
-<td>🟩</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td>
-</tr>
-<tr>
-<td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td>
-</tr>
-
-<!-- O -->
-<tr>
-<td>⬜</td><td>🟩</td><td>🟩</td><td>🟩</td><td>⬜</td>
-</tr>
-<tr>
-<td>🟩</td><td>⬜</td><td>⬜</td><td>⬜</td><td>🟩</td>
-</tr>
-<tr>
-<td>🟩</td><td>⬜</td><td>⬜</td><td>⬜</td><td>🟩</td>
-</tr>
-<tr>
-<td>🟩</td><td>⬜</td><td>⬜</td><td>⬜</td><td>🟩</td>
-</tr>
-<tr>
-<td>⬜</td><td>🟩</td><td>🟩</td><td>🟩</td><td>⬜</td>
-</tr>
-
-</table>
+</div>
 <div align="center">
 <sub><strong><span style="color:#378ADD">From KabeloMashapa</span></strong> — built with passion & precision</sub>
 </div>
