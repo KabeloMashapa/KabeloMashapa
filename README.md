@@ -73,24 +73,109 @@
 
 ---
 <table cellspacing="2">
-  <tr>
-    <td>🟩</td><td>🟩</td><td>⬜</td><td>⬜</td><td>🟪</td><td>🟪</td><td>🟪</td><td>⬜</td><td>🟩</td><td>🟩</td>
-  </tr>
-  <tr>
-    <td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td>
-  </tr>
-  <tr>
-    <td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td>
-  </tr>
-  <tr>
-    <td>🟩</td><td>🟩</td><td>⬜</td><td>⬜</td><td>⬜</td><td>🟪</td><td>🟪</td><td>🟪</td><td>🟩</td><td>🟩</td>
-  </tr>
-  <tr>
-    <td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td>
-  </tr>
-  <tr>
-    <td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td>
-  </tr>
+
+<!-- K -->
+<tr>
+<td>🟩</td><td>⬜</td><td>⬜</td><td>🟩</td><td>⬜</td>
+</tr>
+<tr>
+<td>🟩</td><td>⬜</td><td>🟩</td><td>⬜</td><td>⬜</td>
+</tr>
+<tr>
+<td>🟩</td><td>🟩</td><td>⬜</td><td>⬜</td><td>⬜</td>
+</tr>
+<tr>
+<td>🟩</td><td>⬜</td><td>🟩</td><td>⬜</td><td>⬜</td>
+</tr>
+<tr>
+<td>🟩</td><td>⬜</td><td>⬜</td><td>🟩</td><td>⬜</td>
+</tr>
+
+<!-- A -->
+<tr>
+<td>⬜</td><td>🟩</td><td>🟩</td><td>🟩</td><td>⬜</td>
+</tr>
+<tr>
+<td>🟩</td><td>⬜</td><td>⬜</td><td>⬜</td><td>🟩</td>
+</tr>
+<tr>
+<td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td>
+</tr>
+<tr>
+<td>🟩</td><td>⬜</td><td>⬜</td><td>⬜</td><td>🟩</td>
+</tr>
+<tr>
+<td>🟩</td><td>⬜</td><td>⬜</td><td>⬜</td><td>🟩</td>
+</tr>
+
+<!-- B -->
+<tr>
+<td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>⬜</td>
+</tr>
+<tr>
+<td>🟩</td><td>⬜</td><td>⬜</td><td>⬜</td><td>🟩</td>
+</tr>
+<tr>
+<td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>⬜</td>
+</tr>
+<tr>
+<td>🟩</td><td>⬜</td><td>⬜</td><td>⬜</td><td>🟩</td>
+</tr>
+<tr>
+<td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>⬜</td>
+</tr>
+
+<!-- E -->
+<tr>
+<td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td>
+</tr>
+<tr>
+<td>🟩</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td>
+</tr>
+<tr>
+<td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>⬜</td>
+</tr>
+<tr>
+<td>🟩</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td>
+</tr>
+<tr>
+<td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td>
+</tr>
+
+<!-- L -->
+<tr>
+<td>🟩</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td>
+</tr>
+<tr>
+<td>🟩</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td>
+</tr>
+<tr>
+<td>🟩</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td>
+</tr>
+<tr>
+<td>🟩</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td>
+</tr>
+<tr>
+<td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td><td>🟩</td>
+</tr>
+
+<!-- O -->
+<tr>
+<td>⬜</td><td>🟩</td><td>🟩</td><td>🟩</td><td>⬜</td>
+</tr>
+<tr>
+<td>🟩</td><td>⬜</td><td>⬜</td><td>⬜</td><td>🟩</td>
+</tr>
+<tr>
+<td>🟩</td><td>⬜</td><td>⬜</td><td>⬜</td><td>🟩</td>
+</tr>
+<tr>
+<td>🟩</td><td>⬜</td><td>⬜</td><td>⬜</td><td>🟩</td>
+</tr>
+<tr>
+<td>⬜</td><td>🟩</td><td>🟩</td><td>🟩</td><td>⬜</td>
+</tr>
+
 </table>
 <div align="center">
 <sub><strong><span style="color:#378ADD">From KabeloMashapa</span></strong> — built with passion & precision</sub>
