@@ -71,17 +71,7 @@
 
 </div>
 
----<h2 align="center">🟩 Code Activity Matrix 🟩</h2>
 
-<div align="center">
-
-🟩🟩⬜🟩⬜🟩🟩🟩⬜🟩  
-🟩⬜🟩⬜🟩🟩⬜🟩⬜🟩  
-🟩🟩🟩⬜🟩⬜🟩🟩🟩🟩  
-🟩⬜🟩🟩⬜🟩⬜🟩⬜🟩  
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩  
-
-</div>
 <div align="center">
 <sub><strong><span style="color:#378ADD">From KabeloMashapa</span></strong> — built with passion & precision</sub>
 </div>
