@@ -19,8 +19,6 @@
 
 ## <span style="color:#378ADD"> About me</span>
 ```bash
- boolean software engineer = true ;
- boolean Researcher = true ;
  String[] interests = {
         "Blockchain",
         "Cloud Computing",
