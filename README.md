@@ -19,14 +19,18 @@
 
 ## <span style="color:#378ADD"> About me</span>
 ```bash
- String[] interests = {
+ public static String interests(String linux_distros) {
+
+    String[] researchFields = {
         "Blockchain",
         "Cloud Computing",
         "Cybersecurity",
         "Software Development",
-        "Innovation"
-    };
- return "";
+        "5G/6G networks",
+        "Cryptocurrency"
+      };
+   return "";
+}
 ```
 
 
