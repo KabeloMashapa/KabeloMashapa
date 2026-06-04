@@ -36,7 +36,7 @@
 
 ---
 
-## <span style="color:#378ADD"> Tech stack</span>
+## <span style="color:#378ADD">Tech stack</span>
 
 **<span style="color:#85B7EB">Languages</span>**
 
