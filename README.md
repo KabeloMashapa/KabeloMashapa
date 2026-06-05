@@ -16,7 +16,6 @@
 
 ---
 
-
 ## <span style="color:#378ADD"> About me</span>
 ```bash
  public static String interests(String linux_distros) {
