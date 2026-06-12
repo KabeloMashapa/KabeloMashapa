@@ -63,8 +63,8 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-self-phi-72.vercel.app/api?username=KabeloMashapa&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&icon_color=378ADD&title_color=378ADD&cache_seconds=3600">
-<img height="160" src="https://github-readme-stats-self-phi-72.vercel.app/api/top-langs/?username=KabeloMashapa&layout=compact&theme=tokyonight&hide_border=true&title_color=378ADD&cache_seconds=3600">
+<img height="140" src="https://github-readme-stats-self-phi-72.vercel.app/api?username=KabeloMashapa&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&icon_color=378ADD&title_color=378ADD&cache_seconds=3600">
+<img height="140" src="https://github-readme-stats-self-phi-72.vercel.app/api/top-langs/?username=KabeloMashapa&layout=compact&theme=tokyonight&hide_border=true&title_color=378ADD&cache_seconds=3600">
 
 <br/>
 
